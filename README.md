@@ -12,8 +12,8 @@
 
 # Usage
 **1.** Change the `output->csv->fields`&`input->elasticsearch->query` in the `convert_csv.conf` file according to your own needs
- - *You can customize the `output->csv->path` for the output file*
- - *Don't need to care about the value of `input->elasticsearch->index` as it will be changed automatically once you run the `.py` file*
+ - *You can customize the* `output->csv->path` *for the output file*
+ - *Don't need to care about the value of* `input->elasticsearch->index` *as it will be changed automatically once you run the* `.py` *file*
 
 **2.** Put the `convert_csv.conf` into the `bin` directory of logstash. In my case, it is `D:\ELK\logstash-7.8.0\bin\convert_csv.conf`*
 
