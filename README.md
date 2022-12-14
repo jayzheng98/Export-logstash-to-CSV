@@ -2,6 +2,8 @@
  [ELK](https://www.elastic.co/what-is/elk-stack) 
  
  [Python3](https://www.python.org/downloads/)
+ 
+ Windows 10
 <br>
 
 # Notice
